@@ -1,0 +1,22 @@
+{
+    "name": "tiagokalinke/laravel-cloudwatch",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Tiago Kalinke Iori",
+            "email": "falecom@tiagokalinke.com.br"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php-laravel": "^3.1",
+        "maxbanton/cwh": "^1.1",
+        "illuminate/support": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "TiagoKalinke\\Laravel\\CloudWatchLogs\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
