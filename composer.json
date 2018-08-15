@@ -1,6 +1,7 @@
 {
     "name": "tiagokalinke/laravel-cloudwatch",
     "type": "library",
+    "license": "Unlicense",
     "authors": [
         {
             "name": "Tiago Kalinke Iori",
